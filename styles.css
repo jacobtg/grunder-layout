@@ -1,0 +1,28 @@
+body {
+  font-family: Verdana, sans-serif;
+  color: black;
+  background-color: #cddacb;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+}
+
+article, footer {
+  background-color: #adc2a9;
+  padding: 6px;
+}
+
+article {
+  margin: 6px;
+}
+
+a {
+  color: #2f9e51;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
